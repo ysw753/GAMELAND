@@ -1,0 +1,24 @@
+.title_name{
+    text-align: center;
+    margin-top: 200px;
+}
+.clock__main{
+    color:darkcyan;
+    margin-left: 10px;
+
+}
+.game_upload{
+    margin-top: 50px;
+    text-align: center;
+}
+.game__list{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    padding: 0px 100px;
+    box-sizing: border-box;
+}
+.game__list *{
+    width: 100px;
+    height: 100px;
+}

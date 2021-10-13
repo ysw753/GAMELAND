@@ -1,0 +1,19 @@
+#main{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+
+}
+#form{
+    margin-right: 20px;
+}
+#showText{
+    text-align: center;
+}
+#record{
+    text-align: center;
+}
+#baseball__title{
+    text-align: center;
+    margin-top: 100px;
+}
